@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/ignorant/Desktop/DirectX11-With-Windows-SDK-master/Project 01-09/02 Rendering a Triangle/out/build/x64-Debug/CMakeFiles/02_Rendering_a_Triangle.dir/embed.manifest"

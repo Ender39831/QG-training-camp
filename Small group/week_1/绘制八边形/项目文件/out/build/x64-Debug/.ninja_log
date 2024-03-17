@@ -1,0 +1,8 @@
+# ninja log v5
+2	208	7303066913402013	CMakeFiles/02_Rendering_a_Triangle.dir/CpuTimer.cpp.obj	3347250583a53148
+5	358	7303066914908077	CMakeFiles/02_Rendering_a_Triangle.dir/DXTrace.cpp.obj	b4b2a0e90fc34a0b
+9	767	7303066918928624	CMakeFiles/02_Rendering_a_Triangle.dir/Main.cpp.obj	b90a7967b6557b4d
+15	880	7303066920102521	CMakeFiles/02_Rendering_a_Triangle.dir/d3dUtil.cpp.obj	d56e140688c604e0
+7	937	7303066920668787	CMakeFiles/02_Rendering_a_Triangle.dir/GameApp.cpp.obj	e7de72d1697c6408
+12	1125	7303066922552201	CMakeFiles/02_Rendering_a_Triangle.dir/d3dApp.cpp.obj	f519ec8ee81d716b
+1126	1584	7303066926724424	02 Rendering a Triangle.exe	cb4cded070516790
