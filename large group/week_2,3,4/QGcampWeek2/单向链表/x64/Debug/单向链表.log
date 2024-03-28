@@ -1,0 +1,19 @@
+﻿  A one-way linked list.cpp
+  main.cpp
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\A one-way linked list.h(5,6): error C2059: 语法错误:“delete”
+  正在生成代码...
+  (编译源文件“A%20one-way%20linked%20list.cpp”)
+  
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\A one-way linked list.cpp(21,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\A one-way linked list.cpp(25,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\A one-way linked list.cpp(44,6): error C2059: 语法错误:“delete”
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\A one-way linked list.cpp(44,25): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\A one-way linked list.cpp(44,25): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\A one-way linked list.h(5,6): error C2059: 语法错误:“delete”
+  (编译源文件“main.cpp”)
+  
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\main.cpp(25,13): error C2541: “delete”: 不能删除不是指针的对象
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\main.cpp(40,13): error C3861: “exit”: 找不到标识符
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\main.cpp(16,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\main.cpp(24,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2\QGcampWeek2\单向链表\main.cpp(29,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
