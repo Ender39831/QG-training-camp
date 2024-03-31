@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\",
+  "WorkspaceRootPath": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61746864-CDB3-4AFD-A48C-7068C4A8428F}|\u94FE\u6808\\\u94FE\u6808.vcxproj|C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\ChainStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{61746864-CDB3-4AFD-A48C-7068C4A8428F}|\u94FE\u6808\\\u94FE\u6808.vcxproj|solutionrelative:\u94FE\u6808\\ChainStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}|week3\\week3.vcxproj|C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\week3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}|week3\\week3.vcxproj|solutionrelative:week3\\week3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61746864-CDB3-4AFD-A48C-7068C4A8428F}|\u94FE\u6808\\\u94FE\u6808.vcxproj|C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\ChainStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{61746864-CDB3-4AFD-A48C-7068C4A8428F}|\u94FE\u6808\\\u94FE\u6808.vcxproj|solutionrelative:\u94FE\u6808\\ChainStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}|week3\\week3.vcxproj|C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}|week3\\week3.vcxproj|solutionrelative:week3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61746864-CDB3-4AFD-A48C-7068C4A8428F}|\u94FE\u6808\\\u94FE\u6808.vcxproj|C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{61746864-CDB3-4AFD-A48C-7068C4A8428F}|\u94FE\u6808\\\u94FE\u6808.vcxproj|solutionrelative:\u94FE\u6808\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}|week3\\week3.vcxproj|C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\week3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}|week3\\week3.vcxproj|solutionrelative:week3\\week3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\main.cpp",
+              "RelativeDocumentMoniker": "week3\\main.cpp",
+              "ToolTip": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\main.cpp",
+              "RelativeToolTip": "week3\\main.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T02:20:06.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ChainStack.h",
-              "DocumentMoniker": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\ChainStack.h",
-              "RelativeDocumentMoniker": "\u94FE\u6808\\ChainStack.h",
-              "ToolTip": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\ChainStack.h",
-              "RelativeToolTip": "\u94FE\u6808\\ChainStack.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-24T06:08:55.207Z",
+              "Title": "week3.cpp",
+              "DocumentMoniker": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\week3.cpp",
+              "RelativeDocumentMoniker": "week3\\week3.cpp",
+              "ToolTip": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\week3.cpp",
+              "RelativeToolTip": "week3\\week3.cpp",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAAPIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T02:19:54.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\main.cpp",
-              "RelativeDocumentMoniker": "\u94FE\u6808\\main.cpp",
-              "ToolTip": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\main.cpp",
-              "RelativeToolTip": "\u94FE\u6808\\main.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-24T01:39:16.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChainStack.cpp",
-              "DocumentMoniker": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\ChainStack.cpp",
-              "RelativeDocumentMoniker": "\u94FE\u6808\\ChainStack.cpp",
-              "ToolTip": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2\\QGcampWeek2\\\u94FE\u6808\\ChainStack.cpp",
-              "RelativeToolTip": "\u94FE\u6808\\ChainStack.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-24T06:22:33.253Z"
+              "Title": "week3.h",
+              "DocumentMoniker": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\week3.h",
+              "RelativeDocumentMoniker": "week3\\week3.h",
+              "ToolTip": "C:\\Users\\ignorant\\Desktop\\QgHomework\\QG training camp\\large group\\week_2,3,4\\QGcampWeek2\\week3\\week3.h",
+              "RelativeToolTip": "week3\\week3.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T02:19:40.535Z",
+              "EditorCaption": ""
             }
           ]
         }

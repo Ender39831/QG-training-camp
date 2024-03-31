@@ -9,9 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "泛型队列", "泛型队�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week2", "week2", "{DF837CF8-CD29-4AB2-8885-79660617EBE4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week3", "week3", "{7E77DE75-F125-4672-A5DC-CD068F603C9B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week4", "week4", "{966E8A67-4185-4D1D-8DA2-F15CE76FF7CE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week3", "week3\week3.vcxproj", "{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +35,14 @@ Global
 		{29A00C48-E2F1-45A9-A03B-A9C3D0E147BE}.Release|x64.Build.0 = Release|x64
 		{29A00C48-E2F1-45A9-A03B-A9C3D0E147BE}.Release|x86.ActiveCfg = Release|Win32
 		{29A00C48-E2F1-45A9-A03B-A9C3D0E147BE}.Release|x86.Build.0 = Release|Win32
+		{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}.Debug|x64.ActiveCfg = Debug|x64
+		{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}.Debug|x64.Build.0 = Debug|x64
+		{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}.Debug|x86.ActiveCfg = Debug|Win32
+		{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}.Debug|x86.Build.0 = Debug|Win32
+		{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}.Release|x64.ActiveCfg = Release|x64
+		{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}.Release|x64.Build.0 = Release|x64
+		{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}.Release|x86.ActiveCfg = Release|Win32
+		{C00DDB6B-1B7D-4634-BB6C-F78A36F40131}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

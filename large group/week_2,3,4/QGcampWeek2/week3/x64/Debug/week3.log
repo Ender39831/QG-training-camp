@@ -1,0 +1,25 @@
+﻿  week3.cpp
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(17,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(56,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(119,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(200,26): warning C4244: “return”: 从“_Rep”转换到“double”，可能丢失数据
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(200,26): warning C4244:         with
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(200,26): warning C4244:         [
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(200,26): warning C4244:             _Rep=__int64
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(200,26): warning C4244:         ]
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(212,26): warning C4244: “return”: 从“_Rep”转换到“double”，可能丢失数据
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(212,26): warning C4244:         with
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(212,26): warning C4244:         [
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(212,26): warning C4244:             _Rep=__int64
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(212,26): warning C4244:         ]
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(227,26): warning C4244: “return”: 从“_Rep”转换到“double”，可能丢失数据
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(227,26): warning C4244:         with
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(227,26): warning C4244:         [
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(227,26): warning C4244:             _Rep=__int64
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(227,26): warning C4244:         ]
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(242,26): warning C4244: “return”: 从“_Rep”转换到“double”，可能丢失数据
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(242,26): warning C4244:         with
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(242,26): warning C4244:         [
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(242,26): warning C4244:             _Rep=__int64
+C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\week3\week3.cpp(242,26): warning C4244:         ]
+  week3.vcxproj -> C:\Users\ignorant\Desktop\QgHomework\QG training camp\large group\week_2,3,4\QGcampWeek2\x64\Debug\week3.exe
